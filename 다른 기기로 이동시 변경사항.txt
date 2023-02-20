@@ -1,0 +1,17 @@
+1.
+SQL복사해서
+DB에 데이터 넣기
+
+2.
+database.poperties 에서
+유저네임, 비밀번호 변경
+
+3.
+OttController 에서
+이미지 저장 외부경로 총 4개 변경
+
+등록 2개
+poster,images
+
+수정 2개
+poster,images
